@@ -7,6 +7,12 @@
 
 - I’m currently working on **Various proprietary projects in AI, CV and Robotics**
 
+- 🌱 I’m currently learning **Advanced AI (Deep Learning, Transformers, DNNs)**
+
+- 💬 Ask me about **AI,CV,Robotics,Mechatronics**
+
+- 📫 How to reach me **braydenlevangie@icloud.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blevlabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blevlabs" height="30" width="40" /></a>
@@ -19,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blevlabs&show_icons=true&locale=en" alt="blevlabs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blevlabs&" alt="blevlabs" /></p>
-
