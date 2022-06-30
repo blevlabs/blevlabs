@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI,CV,Robotics,Mechatronics**
 
-- 📫 How to reach me **braydenlevangie@icloud.com**
+- 📫 How to reach me: **braydenlevangie@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
