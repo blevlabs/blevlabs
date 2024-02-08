@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brayden Levangie</h1>
-<h3 align="center">A student with a huge passion for CS, AI, and Robotics, and the Lead AI Engineer at Dicer.AI</h3>
+<h3 align="center">I'm a developer with a huge passion for AI and Robotics development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blevlabs&label=Profile%20views&color=0e75b6&style=flat" alt="blevlabs" /> </p>
 
