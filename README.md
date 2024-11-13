@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brayden Levangie</h1>
-<h3 align="center">I'm a developer with a huge passion for AI and Robotics</h3>
+<h3 align="center">CEO of LLABS | Innovating in AI and Cutting-Edge Agentic Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blevlabs&label=Profile%20views&color=0e75b6&style=flat" alt="blevlabs" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning and Transformer Model Applications**
+- 🚀 I’m currently working on **Cutting-Edge Autonomous Agents and Intelligent Systems** at **Levangie Laboratories (LLABS)**
 
-- 💬 Ask me about **Pytorch, GPT-3, HuggingFace, Applied Robotics and Engineering**
+- 🔭 Focused on **Agentic Intelligence in Real-World Applications** integrating **Deep Learning**, **Transformer Models**, and **AI for Robotics**.
 
-- 📫 How to reach me **braydenlevangie@icloud.com**
+- 💬 Ask me about **AI-Driven Solutions**, **Cognitive Agents**, and **Applied Engineering in Robotics**
+
+- 👥 Building towards a future where **autonomous agents enhance and streamline complex systems** in industries and daily life.
+
+- 📫 Contact me at **brayden@levangielaboratories.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
